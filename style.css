@@ -91,7 +91,10 @@ body {
   color:grey;
   width:150px;
 }
-
+rect {
+  background-image: url(/images/stripe.png)
+  
+}
 #pizza {
   margin-left:auto;
   margin-right:auto;
